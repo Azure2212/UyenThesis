@@ -1,2 +1,2 @@
 Dataset RAFDB: https://www.kaggle.com/datasets/dntai2/rafdb-basic/data
-pretrained_weight: https://www.kaggle.com/datasets/dasanbob/resnet50-vggface2-freezed-except-cbam/data
+Pretrained_weight: https://www.kaggle.com/datasets/dasanbob/resnet50-vggface2-freezed-except-cbam/data
